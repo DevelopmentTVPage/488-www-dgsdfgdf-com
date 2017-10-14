@@ -1,0 +1,96 @@
+{
+    "title": "Vidalia Chop Wizard",
+    "description": "",
+    "referenceId": "14274",
+    "date_created": "1502520425",
+    "date_modified": "1504247455",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "id": "109978507",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "vidalia-chop-wizard",
+    "category": "",
+    "duration": "80",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "80",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "80",
+        "prettyDuration": "00:01:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109978507\/58b73\/thumb-6baf9c8a7c3cdfb56acba499ffa09ba1-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109978507\/58b73\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109978507\/58b73\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109978507\/58b73\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109978507\/58b73\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109978507\/58b73\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109978507\/58b73\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109978507\/58b73\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109978507\/cc\/vtt\/en_1504223303.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "10\/16\/2013",
+    "created_date": "7\/22\/2010"
+}

@@ -1,0 +1,88 @@
+{
+    "title": "i play.&reg; Swim Diaper",
+    "description": "",
+    "referenceId": "1639258550",
+    "date_created": "1502522100",
+    "date_modified": "1504299231",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "id": "109987085",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "i-play-swim-diaper",
+    "category": "",
+    "duration": "77",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "77",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "77",
+        "prettyDuration": "00:01:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109987085\/c895f\/thumb-15daf4e71ee8be048d9be33a2bbeb6c6-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109987085\/c895f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109987085\/c895f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109987085\/c895f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109987085\/c895f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109987085\/c895f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109987085\/c895f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109987085\/c895f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "marketing",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017"
+}

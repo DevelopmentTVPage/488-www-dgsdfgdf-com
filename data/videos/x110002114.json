@@ -1,0 +1,96 @@
+{
+    "title": "Boppy Play Mat",
+    "description": "",
+    "referenceId": "24740",
+    "date_created": "1502524836",
+    "date_modified": "1504247454",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "id": "110002114",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "boppy-play-mat",
+    "category": "",
+    "duration": "109",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "109",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "109",
+        "prettyDuration": "00:01:49",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110002114\/1aafa\/thumb-463c6e0255770b2165a8a57ae2abc792-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110002114\/1aafa\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110002114\/1aafa\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002114\/1aafa\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002114\/1aafa\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002114\/1aafa\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002114\/1aafa\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002114\/1aafa\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110002114\/cc\/vtt\/en_1504073862.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/5\/2011",
+    "created_date": "4\/1\/2011"
+}

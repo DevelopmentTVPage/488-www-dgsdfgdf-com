@@ -1,0 +1,88 @@
+{
+    "title": "Nap Nanny Chill",
+    "description": "",
+    "referenceId": "29852",
+    "date_created": "1502524888",
+    "date_modified": "1504247454",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "id": "110002134",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "nap-nanny-chill",
+    "category": "",
+    "duration": "88",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "88",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "88",
+        "prettyDuration": "00:01:28",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110002134\/69ab0\/thumb-fd9cb74c0eb0138f4439854542d8cbfe-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110002134\/69ab0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110002134\/69ab0\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002134\/69ab0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002134\/69ab0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002134\/69ab0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002134\/69ab0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002134\/69ab0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "7\/22\/2013",
+    "created_date": "7\/6\/2011"
+}

@@ -1,0 +1,88 @@
+{
+    "title": "Perfect Touch 625-Thread-Count Deep Pocket Sheet Set",
+    "description": "",
+    "referenceId": "1616759367",
+    "date_created": "1502521933",
+    "date_modified": "1504247456",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "id": "109986025",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "perfect-touch-625-thread-count-deep-pocket-sheet-set",
+    "category": "",
+    "duration": "67",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "67",
+            "width": 960,
+            "height": 540
+        },
+        "mediaDuration": "67",
+        "prettyDuration": "00:01:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109986025\/69ccb\/thumb-e8e4829566c1decf9d09433cffe7577b-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109986025\/69ccb\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109986025\/69ccb\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986025\/69ccb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986025\/69ccb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986025\/69ccb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986025\/69ccb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986025\/69ccb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "12\/17\/2015",
+    "created_date": "12\/17\/2015"
+}

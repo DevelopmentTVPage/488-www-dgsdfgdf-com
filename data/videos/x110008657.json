@@ -1,0 +1,96 @@
+{
+    "title": "Soothe and Groove Mobile notitles.mp4",
+    "description": "",
+    "referenceId": "54514",
+    "date_created": "1502526075",
+    "date_modified": "1504247455",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "id": "110008657",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "soothe-and-groove-mobile-notitles-mp4",
+    "category": "",
+    "duration": "65",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "65",
+            "width": 768,
+            "height": 576
+        },
+        "mediaDuration": "65",
+        "prettyDuration": "00:01:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110008657\/8aa53\/thumb-14fa5d2aecab352c88a80c2656d05cf5-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110008657\/8aa53\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110008657\/8aa53\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008657\/8aa53\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 768,
+                "height": 576
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008657\/8aa53\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 768,
+                "height": 576
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008657\/8aa53\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008657\/8aa53\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008657\/8aa53\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110008657\/cc\/vtt\/en_1504117832.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "FTP",
+    "modified_date": "5\/9\/2012",
+    "created_date": "5\/9\/2012"
+}
