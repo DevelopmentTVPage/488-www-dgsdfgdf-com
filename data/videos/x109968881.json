@@ -1,0 +1,88 @@
+{
+    "title": "Riedel - The Birds Collection Wine Decanters",
+    "description": "",
+    "referenceId": "11959",
+    "date_created": "1502518614",
+    "date_modified": "1504247455",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "id": "109968881",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "riedel-the-birds-collection-wine-decanters",
+    "category": "",
+    "duration": "120",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "120",
+            "width": 320,
+            "height": 240
+        },
+        "mediaDuration": "120",
+        "prettyDuration": "00:02:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109968881\/10b98\/thumb-4d904832d8607fce07fccc3c460a0f92-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109968881\/10b98\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109968881\/10b98\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109968881\/10b98\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109968881\/10b98\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109968881\/10b98\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109968881\/10b98\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109968881\/10b98\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "10\/10\/2012",
+    "created_date": "10\/10\/2012"
+}

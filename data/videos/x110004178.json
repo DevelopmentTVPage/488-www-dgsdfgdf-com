@@ -1,0 +1,89 @@
+{
+    "title": "CTA Dual Charging Dock for Wii with Two Rechargeable Batteries",
+    "description": "",
+    "referenceId": "35316",
+    "date_created": "1502524988",
+    "date_modified": "1504247455",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "id": "110004178",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "cta-dual-charging-dock-for-wii-with-two-rechargeable-batteries",
+    "category": "",
+    "duration": "118",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "118",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "118",
+        "prettyDuration": "00:01:58",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004178\/5992a\/thumb-190a18e401ede2d3260d0d36173d1706-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004178\/5992a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004178\/5992a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004178\/5992a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004178\/5992a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004178\/5992a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004178\/5992a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004178\/5992a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": []
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "7\/6\/2013",
+    "created_date": "11\/2\/2011"
+}

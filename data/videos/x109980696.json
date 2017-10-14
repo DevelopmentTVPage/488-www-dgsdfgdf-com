@@ -1,0 +1,88 @@
+{
+    "title": "Kenneth Cole Reaction Home Python Shower Curtain",
+    "description": "",
+    "referenceId": "1498395915",
+    "date_created": "1502520948",
+    "date_modified": "1504247455",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "id": "109980696",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "kenneth-cole-reaction-home-python-shower-curtain",
+    "category": "",
+    "duration": "57",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "57",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "57",
+        "prettyDuration": "00:00:57",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109980696\/3217b\/thumb-26a16f6e5096a2e609484d66b7822a31-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109980696\/3217b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109980696\/3217b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980696\/3217b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980696\/3217b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980696\/3217b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980696\/3217b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980696\/3217b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "mickey",
+    "modified_date": "2\/20\/2013",
+    "created_date": "2\/19\/2013"
+}

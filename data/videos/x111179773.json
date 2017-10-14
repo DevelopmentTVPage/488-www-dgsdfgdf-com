@@ -1,0 +1,96 @@
+{
+    "title": "Breville Art of Coffee",
+    "description": "",
+    "referenceId": "11259",
+    "date_created": "1502923117",
+    "date_modified": "1504448652",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "id": "111179773",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "breville-art-of-coffee",
+    "category": "",
+    "duration": "44",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "44",
+            "width": 592,
+            "height": 332
+        },
+        "mediaDuration": "44",
+        "prettyDuration": "00:00:44",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/639050158-01320180.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179773\/71fda\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179773\/71fda\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179773\/cc\/vtt\/en_1504221154.vtt",
+                "default": true
+            }
+        ],
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179773\/71fda\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 592,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179773\/71fda\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 592,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179773\/71fda\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 592,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179773\/71fda\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 592,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179773\/71fda\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/20\/2013",
+    "created_date": "8\/31\/2010"
+}

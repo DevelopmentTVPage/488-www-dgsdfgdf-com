@@ -1,0 +1,88 @@
+{
+    "title": "Little Giant Ladder Systems",
+    "description": "",
+    "referenceId": "14305",
+    "date_created": "1502520458",
+    "date_modified": "1504247455",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "id": "109979520",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "little-giant-ladder-systems",
+    "category": "",
+    "duration": "196",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "196",
+            "width": 872,
+            "height": 480
+        },
+        "mediaDuration": "196",
+        "prettyDuration": "00:03:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109979520\/d928c\/thumb-588ff493b95cfd6f30e7cb5686373f9d-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109979520\/d928c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109979520\/d928c\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979520\/d928c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 872,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979520\/d928c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 872,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979520\/d928c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 470
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979520\/d928c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 352
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979520\/d928c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 176
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "7\/22\/2010"
+}

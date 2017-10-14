@@ -1,0 +1,88 @@
+{
+    "title": "CTA Wi-Bowl Bowling Ball for Wii",
+    "description": "",
+    "referenceId": "35315",
+    "date_created": "1502524986",
+    "date_modified": "1504247455",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "id": "110004177",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "cta-wi-bowl-bowling-ball-for-wii",
+    "category": "",
+    "duration": "159",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "159",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "159",
+        "prettyDuration": "00:02:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004177\/5da3f\/thumb-36d45b3d958af4e6913c990688da1a2c-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004177\/5da3f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004177\/5da3f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004177\/5da3f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004177\/5da3f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004177\/5da3f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004177\/5da3f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004177\/5da3f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "5\/27\/2013",
+    "created_date": "11\/2\/2011"
+}

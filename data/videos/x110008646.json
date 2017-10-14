@@ -1,0 +1,88 @@
+{
+    "title": "Chef'sChoice AngleSelect 4633 Knife Sharpener",
+    "description": "",
+    "referenceId": "53886",
+    "date_created": "1502526050",
+    "date_modified": "1504247458",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "id": "110008646",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "chef-schoice-angleselect-4633-knife-sharpener",
+    "category": "",
+    "duration": "150",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "150",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "150",
+        "prettyDuration": "00:02:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110008646\/59cff\/thumb-0d286d18fb3edf6eeda0f1f2bfd42874-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110008646\/59cff\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110008646\/59cff\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008646\/59cff\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008646\/59cff\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008646\/59cff\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008646\/59cff\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008646\/59cff\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "FTP",
+    "modified_date": "5\/9\/2012",
+    "created_date": "5\/9\/2012"
+}

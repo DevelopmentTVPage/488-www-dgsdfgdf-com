@@ -1,0 +1,86 @@
+{
+    "title": "Strap Perfect - Bra Strap Holder As Seen On TV",
+    "description": "",
+    "referenceId": "3912",
+    "date_created": "1502924509",
+    "date_modified": "1504247457",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "id": "111180379",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "strap-perfect-bra-strap-holder-as-seen-on-tv",
+    "category": "",
+    "duration": "85",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "85",
+            "width": 640,
+            "height": 480
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180379\/19cbd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180379\/19cbd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180379\/19cbd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180379\/19cbd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180379\/19cbd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "85",
+        "prettyDuration": "00:01:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180379\/19cbd\/thumb-3912-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180379\/19cbd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180379\/19cbd\/media.m3u8"
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "dvd",
+    "modified_date": "8\/1\/2013",
+    "created_date": "5\/26\/2009"
+}

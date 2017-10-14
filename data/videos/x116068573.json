@@ -1,0 +1,92 @@
+{
+    "title": "Fine Linens",
+    "description": "",
+    "referenceId": "9df10d75e5be1825f9d95537ad6c88aa",
+    "date_created": "1504639379",
+    "date_modified": "1504647234",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "id": "116068573",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "media-33-mp4",
+    "category": "",
+    "duration": "128",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "128",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "128",
+        "prettyDuration": "00:02:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/116068573\/2046f\/thumb-9df10d75e5be1825f9d95537ad6c88aa-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/116068573\/2046f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/116068573\/2046f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116068573\/2046f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116068573\/2046f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116068573\/2046f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116068573\/2046f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116068573\/2046f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "ashley.davison",
+    "modified_date": "8\/7\/2015",
+    "created_date": "3\/9\/2015"
+}

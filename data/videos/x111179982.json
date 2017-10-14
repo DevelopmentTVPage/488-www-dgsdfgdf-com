@@ -1,0 +1,86 @@
+{
+    "title": "Cuisinart WCH 1000 Clean Water Water Flitration System",
+    "description": "",
+    "referenceId": "15848",
+    "date_created": "1502923597",
+    "date_modified": "1504247458",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "id": "111179982",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "cuisinart-wch-1000-clean-water-water-flitration-system",
+    "category": "",
+    "duration": "111",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "111",
+            "width": 480,
+            "height": 270
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179982\/c8429\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179982\/c8429\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179982\/c8429\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179982\/c8429\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179982\/c8429\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "111",
+        "prettyDuration": "00:01:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179982\/c8429\/thumb-15848-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179982\/c8429\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179982\/c8429\/media.m3u8"
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "9\/10\/2010"
+}
